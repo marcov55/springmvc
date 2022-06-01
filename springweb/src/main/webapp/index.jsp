@@ -11,7 +11,7 @@
 <body>
     <h1>Olá Mundo!</h1>
     <ul>
-    <c;forEach var="pos" begin="0" end="10">
+    <c:forEach var="pos" begin="0" end="10">
         <li>${pos}</li>
     </c:forEach>
     </ul>
